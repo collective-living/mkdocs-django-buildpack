@@ -1,2 +1,5 @@
-# mkdocs-django-buildpack
-Buildpack for mkdocs for CoLab.
+# MKDocs Buildpack for Django
+
+Takes into account `STATIC_URL`.
+
+Adapted from <https://github.com/waldocollective/buildpack-mkdocs>
